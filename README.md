@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://Shaheen1998.io)
+![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <h1 align="center">Hi 👋, I'm M Tariq shaheen</h1>
 <h3 align="center">A passionate Computer Vision & Machine Learning Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
