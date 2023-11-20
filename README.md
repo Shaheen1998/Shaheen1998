@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheen1998&label=Profile%20views&color=0e75b6&style=flat" alt="shaheen1998" /> </p>
 
-- 🔭 I’m currently working on **My Research Work**
+- 🔭 I’ve just completed **My Research Work**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/tariqshaheen/](linkedin.com/in/tariqshaheen/)
+- 👨‍💻 All of my projects are available at [linkedin.com/in/tariqshaheen/](https://www.linkedin.com/in/tariqshaheen)
 
 - 💬 Ask me about **Python, Computer Vision & Machine Learning**
 
