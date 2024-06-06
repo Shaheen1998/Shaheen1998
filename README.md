@@ -1,6 +1,3 @@
-Here is a revised and more detailed version of your GitHub profile README, incorporating more information from your CV:
-
-```markdown
 ![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Tariq Shaheen</h1>
 <h3 align="center">A passionate AI developer specializing in Computer Vision</h3>
