@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheen1998&label=Profile%20views&color=0e75b6&style=flat" alt="shaheen1998" /> </p>
 
-- 🔭 I’ve just completed **My Research Work**
+- 🔭 I’ve just done **Master of Science in Artificial Intelegence**
 
 - 👨‍💻 All of my projects are available at [linkedin.com/in/tariqshaheen/](https://www.linkedin.com/in/tariqshaheen)
 
