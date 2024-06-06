@@ -1,38 +1,121 @@
+Here is a revised and more detailed version of your GitHub profile README, incorporating more information from your CV:
+
+```markdown
 ![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Tariq Shaheen</h1>
-<h3 align="center">A passionate AI developer specialized in Computer Vision</h3>
+<h3 align="center">A passionate AI developer specializing in Computer Vision</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheen1998&label=Profile%20views&color=0e75b6&style=flat" alt="shaheen1998" /> </p>
 
-- 🔭 I’ve just completed **Master of Science in Artificial Intelegence from NUST School of Electrical Engineering & Computer Science**
+- 🔭 I recently completed my **Master of Science in Electrical Engineering** at NUST School of Electrical Engineering & Computer Science.
+- 🔭 I’m currently working on **Flooded Areas Detection** using semantic segmentation techniques and vision transformers.
+- 🌱 I’m currently learning more about **AI model deployment and other advanced techniques.**
+- 🤝 I’m looking to collaborate on projects using **Vision Transformers, YOLO, and other computer vision models.**
+- 👨‍💻 All of my projects are available on [Kaggle](https://www.kaggle.com/mshaheenn).
+- 💬 Ask me about **AI, Computer Vision, and Machine Learning.**
+- 📫 How to reach me: **mshaheen.msee20seecs@seecs.edu.pk**
+- 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/tariqshaheen-ml).
+- ⚡ Fun fact: **I think I have a great sense of humor.**
 
-- 🔭 I’m currently working on **Flooded arias detection using semantic segmentation techniques and vision transformers.**
+<h2 align="left">Projects</h2>
 
-- 🌱 I’m currently learning more for **AI models deployment and others.**
+**Semantic Segmentation & Object Detection**  
+*Vision Transformers, SwinT, YOLOv5, RoboFlow*  
+- **Data Annotation:** Used RoboFlow for data annotation in semantic segmentation masks, COCO formats, and others.  
+- **Flood Detection Segmentation:** Fine-tuned SwinT and Segformer models for semantic segmentation of flood-affected areas.  
+- **Aircraft Detection:** Employed transfer learning to fine-tune YOLOv5 and YOLOv8 for aircraft detection.
 
-- 🤝 I’m looking to collaborate in new projects using **Vision Transformers, YOLO and others.**
+**Multi-Camera Surveillance System with Real-Time Object Detection**  
+*OpenCV, IP Webcams, YOLOv5, Multithreading, Video Stitching, CV, ML*  
+- Integrated visual recognition of multiple cameras, used Python multithreading to remove lag in videos, and utilized YOLOv5 to identify persons, providing comprehensive monitoring.  
+- Addressed limited observation angles challenge, providing a robust solution for diverse surveillance scenarios.
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/mshaheenn](https://www.kaggle.com/mshaheenn)
+**Real-Time Pose Estimation using OpenCV**  
+*OpenCV, MediaPipe, Pose Estimation, CV*  
+- Processed video streams using OpenCV and MediaPipe to estimate poses by detecting key body landmarks.
 
-- 💬 Ask me about **AI, Computer Vision & Machine Learning**
+**Deep Semantic Segmentation of Water Bodies in Remote Sensing Imagery**  
+*Remote Sensing Imagery, Deep Learning, ML*  
+- Trained a robust DL model (UNET) to segment various water bodies from satellite imagery.  
+- Water bodies detection from remote sensing imagery is crucial for fields like resource management and environmental monitoring.
 
-- 📫 How to reach me **mshaheen.msee20seecs@seecs.edu.pk**
+<h2 align="left">Experience</h2>
 
-- 📄 Know about my experiences [www.linkedin.com/in/tariqshaheen-ml](www.linkedin.com/in/tariqshaheen-ml)
+**Student Researcher**  
+*Robotics and Machine Intelligence Lab, SEECS, NUST*  
+*Sep 2021 – Dec 2023*  
+- Conducted research to enhance the performance of semantic segmentation for remotely sensed images using vision transformers. Introduced the vision transformer-based SwinSegFormer model for aerial image semantic segmentation.  
+- Fine-tuned deep learning models like DeeplabV3+, Segformer, and Swin-transformer on custom datasets, and implemented YOLO for object detection.  
+- Possess expertise in CNNs and Vision Transformer models for semantic segmentation and can design deep learning models by identifying research gaps.
 
-- ⚡ Fun fact **I think I am funny.**
+**Jr. Python Developer Intern**  
+*EmulationAI*  
+*Oct 2021 – Dec 2021*  
+- Expanded skills in Python development, including creating virtual environments in Visual Studio Code, PyCharm, and Conda.  
+- Gained familiarity with SQL and completed introductory tasks.  
+- Delved into deep learning concepts such as generative models, autoencoders, diffusion models, and vision transformers, mastering their fine-tuning in PyTorch.
+
+<h2 align="left">Education</h2>
+
+**MS Electrical Engineering**  
+*NUST-SEECS*  
+*Oct 2020 – Dec 2023*  
+- Thesis: Exploring the power of vision transformers in RSIs using semantic segmentation techniques.
+
+**BSc Electronics Engineering**  
+*UET Taxila*  
+*Nov 2016 – Dec 2020*
+
+<h2 align="left">Skills</h2>
+
+**Programming Languages & Tools:**  
+Python, VS Code, PyCharm, Kaggle, Colab, PyTorch, TensorFlow, OpenCV, Matplotlib, scikit-learn, Git, Hugging Face, MMSegmentation, MATLAB, SQL, LaTeX
+
+<h2 align="left">Certifications</h2>
+
+- Programming For Everybody - Coursera  
+- Python Data Structures - Coursera  
+- Advanced Foundations of Python Coding - Udemy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/tariqshaheen-ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tariqshaheen-ml" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mshaheenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mshaheenn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tariqshaheen-ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tariqshaheen-ml" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mshaheenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mshaheenn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheen1998&show_icons=true&locale=en&layout=compact" alt="shaheen1998" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaheen1998&show_icons=true&locale=en" alt="shaheen1998" /></p>
+<p align="left"> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+    </a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+    </a> 
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="
