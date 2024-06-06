@@ -19,7 +19,7 @@
 <h2 align="left">Projects</h2>
 
 **Semantic Segmentation & Object Detection**  
-*Vision Transformers, SwinT, YOLOv5, RoboFlow*  
+*Vision Transformers, SwinT, YOLOv8, YOLOv9, RoboFlow*  
 - **Data Annotation:** Used RoboFlow for data annotation in semantic segmentation masks, COCO formats, and others.  
 - **Flood Detection Segmentation:** Fine-tuned SwinT and Segformer models for semantic segmentation of flood-affected areas.  
 - **Aircraft Detection:** Employed transfer learning to fine-tune YOLOv5 and YOLOv8 for aircraft detection.
