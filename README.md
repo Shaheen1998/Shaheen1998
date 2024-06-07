@@ -76,8 +76,7 @@
 **Programming Languages & Tools:**  
 Python, VS Code, PyCharm, Kaggle, Colab, PyTorch, TensorFlow, OpenCV, Matplotlib, scikit-learn, Git, Hugging Face, MMSegmentation, MATLAB, SQL, LaTeX
 
-<h2 align="left">Certifications</h2>
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tariqshaheen-ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tariqshaheen-ml" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mshaheenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mshaheenn" height="30" width="40" /></a>
