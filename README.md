@@ -8,8 +8,9 @@
 
 - 🔭 I recently completed my **Master of Science in Electrical Engineering** at NUST School of Electrical Engineering & Computer Science.
 - 🔭 I’m currently working on **Flooded Areas Detection** using semantic segmentation techniques and vision transformers.
+- 🔭 I'm also collaborating with some clients on fascinating computer vision projects involving object detection, tracking, and recognition.
 - 🌱 I’m currently learning more about **AI model deployment and other advanced techniques.**
-- 🤝 I’m looking to collaborate on projects using **Vision Transformers, YOLO, and other computer vision models.**
+- 🤝 I’m looking to collaborate on more interesting projects using **Vision Transformers, YOLO, and other computer vision models.**
 - 👨‍💻 All of my projects are available on [Kaggle](https://www.kaggle.com/mshaheenn).
 - 💬 Ask me about **AI, Computer Vision, and Machine Learning.**
 - 📫 How to reach me: **mshaheen.msee20seecs@seecs.edu.pk**
@@ -22,7 +23,7 @@
 *Vision Transformers, SwinT, YOLOv8, YOLOv9, RoboFlow*  
 - **Data Annotation:** Used RoboFlow for data annotation in semantic segmentation masks, COCO formats, and others.  
 - **Flood Detection Segmentation:** Fine-tuned SwinT and Segformer models for semantic segmentation of flood-affected areas.  
-- **Aircraft Detection:** Employed transfer learning to fine-tune YOLOv5 and YOLOv8 for aircraft detection.
+- **Aircraft Detection:** Employed transfer learning to fine-tune YOLOv8 and YOLOv9 for aircraft detection.
 
 **Multi-Camera Surveillance System with Real-Time Object Detection**  
 *OpenCV, IP Webcams, YOLOv5, Multithreading, Video Stitching, CV, ML*  
@@ -47,12 +48,17 @@
 - Fine-tuned deep learning models like DeeplabV3+, Segformer, and Swin-transformer on custom datasets, and implemented YOLO for object detection.  
 - Possess expertise in CNNs and Vision Transformer models for semantic segmentation and can design deep learning models by identifying research gaps.
 
-**Jr. Python Developer Intern**  
-*EmulationAI*  
-*Oct 2021 – Dec 2021*  
+**Computer Vision and Machine Learning**   
+- I have extensive experience using advanced technologies like Vision Transformers, YOLOv8, YOLOv9, Bytrack, and DeepSort.
+- Areal Imagery Semantic Segmentation to locate flood effected arias and natural disaster management.
+- Water bodies detection and aria estimation using semantic segmentation techniques (Segformer, Swin Transformer).
+- Custom Object Detection and Real-Time Object Tracking using YOLOv8 YOLOv9 and Bytrack deepsort.
+- Real-time inventory objects recognition. counting when customers taken from vending machine YOLO Bytrack.
+- Underwater Object Detection focusing on fish varieties.
+- Very small object detection like Insects detection in a garden using YOLOv9.
 - Expanded skills in Python development, including creating virtual environments in Visual Studio Code, PyCharm, and Conda.  
 - Gained familiarity with SQL and completed introductory tasks.  
-- Delved into deep learning concepts such as generative models, autoencoders, diffusion models, and vision transformers, mastering their fine-tuning in PyTorch.
+
 
 <h2 align="left">Education</h2>
 
@@ -72,11 +78,6 @@ Python, VS Code, PyCharm, Kaggle, Colab, PyTorch, TensorFlow, OpenCV, Matplotlib
 
 <h2 align="left">Certifications</h2>
 
-- Programming For Everybody - Coursera  
-- Python Data Structures - Coursera  
-- Advanced Foundations of Python Coding - Udemy
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tariqshaheen-ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tariqshaheen-ml" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mshaheenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mshaheenn" height="30" width="40" /></a>
